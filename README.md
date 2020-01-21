@@ -1,6 +1,8 @@
-# 8X8X8 LED CUBE
-대학교 1학년 ATmega128 프로젝트
-ATmega C 코딩 담당
+# 프로젝트 명 8X8X8 LED CUBE
+8X8X8 LED CUBE
+
+# 주사용 기술/언어
+ATmega C 코딩 담당 및 HW제작
 
 # 프로젝트 시연영상
 ### 영상1
