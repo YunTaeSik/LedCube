@@ -10,3 +10,7 @@ ATmega C 코딩 담당 및 HW제작
 
 ### 영상2
 [![Watch the video](https://i9.ytimg.com/vi/UFd08C3mgf0/mq2.jpg?sqp=CPGomvEF&rs=AOn4CLC2jHqmrtIBDLEHxNTxVq0Wj1AeRw)](https://youtu.be/UFd08C3mgf0)
+
+## 관련 이미지
+![LED_IMAGE](https://user-images.githubusercontent.com/23161645/72779827-8a1e7400-3c60-11ea-93bc-4600d58895ba.jpg)
+
